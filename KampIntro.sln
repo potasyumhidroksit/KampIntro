@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{6DA17081-9AA7-4BD3-8EAE-44C50E937300}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{D85945F7-E5A4-4A61-BCDC-E8B875782BD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{6DA17081-9AA7-4BD3-8EAE-44C50E937300}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DA17081-9AA7-4BD3-8EAE-44C50E937300}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DA17081-9AA7-4BD3-8EAE-44C50E937300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85945F7-E5A4-4A61-BCDC-E8B875782BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85945F7-E5A4-4A61-BCDC-E8B875782BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85945F7-E5A4-4A61-BCDC-E8B875782BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85945F7-E5A4-4A61-BCDC-E8B875782BD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
